@@ -1,5 +1,5 @@
-# AIC-Cases
-This warehouse is used to store relevant data of case studies in papers.
+<!-- # AIC-Cases
+This warehouse is used to store relevant data of case studies in papers. -->
 # Folder directory description
 
 * HEA-computer
