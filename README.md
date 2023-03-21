@@ -54,7 +54,7 @@ Based on the industrial knowledge structure defined by the AIC model, combined w
 
 ## IDFR-fishingRod
 
-In the fishing gear industry, taking fishing rod assembly as a scene, we implemented an interactive design of fishing rod (IDFG) system, which covers the possible errors in the design process of fishing rod，including  **outError**,  **overlapError**,  **adaptError**,  **typeWarn**.  Thereby achieving interactive customization verification of fishing rod (**BOM verification**). A  knowledge graph of fishing rod has been constructed. 
+In the fishing gear industry, taking fishing rod assembly as a scene, we implemented an interactive design of fishing rod (IDFR) system, which covers the possible errors in the design process of fishing rod，including  **outError**,  **overlapError**,  **adaptError**,  **typeWarn**.  Thereby achieving interactive customization verification of fishing rod (**BOM verification**). A  knowledge graph of fishing rod has been constructed. 
 
 > fishingRod.dump
 
