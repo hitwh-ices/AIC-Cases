@@ -6,7 +6,7 @@
     * CPU.txt
     * Mainboard.txt
     * Memory.txt
-    * SSD.txt
+    * HDD.txt
     * Case.txt
     * Radiator.txt
     * Power.txt
@@ -26,7 +26,7 @@ In household electric appliance (HEA),  taking computer as an example,  we built
 
 ### data-txt
 
-Based on the Python Scrap framework, obtain data on computer assembly schemes and components at JD, including GPU, CPU, Mainboard, Memory, SSD (including HDD), Case, Radiator and Power.  The obtained data is stored in the following files in a txt file format：
+Based on the Python Scrap framework, obtain data on computer assembly schemes and components at JD, including GPU, CPU, Mainboard, Memory, HDD (including SSD), Case, Radiator and Power.  The obtained data is stored in the following files in a txt file format：
 
 | file name                    | Description                                                  |
 | ---------------------------- | ------------------------------------------------------------ |
@@ -34,7 +34,7 @@ Based on the Python Scrap framework, obtain data on computer assembly schemes an
 | CPU.txt                      | Data of the central processing unit (CPU), a key component of the computer, including attributes such as interface, model, and matching motherboard. |
 | Mainboard.txt                | Data of the Mainboard, a key components of the computer, including attributes such as matching main board, memory card slot, power interface, brand type. |
 | Memory.txt                   | Data of the Memory, a Key computer components, including attributes such as DDR algebra, total capacity, memory frequency, and memory quantity. |
-| SSD.txt                      | Data of the solid state disk (SSD), a key component of a computer, including attributes such as sequential read speed, flash type, cache, and sequential write. |
+| HDD.txt                      | Data of the hard disk drive (HDD), a key component of a computer, including attributes such as sequential read speed, flash type, cache, and sequential write. |
 | Case.txt                     | Data of the Case, a key components of the computer, including attributes such as panel interface, box weight, and material. |
 | Radiator.txt                 | Data of the Radiator, a key components of the computer, including attributes such as power interface, heat sink size,  and compatible interface. |
 | Power.txt                    | Data of the Power, a key components of the computer, including attributes such as  model, rated power, power supply and product size. |
